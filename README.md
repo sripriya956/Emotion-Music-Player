@@ -6,5 +6,3 @@ The Emotion-Based Music Player is an intelligent system that detects a user’s 
 This project integrates computer vision, machine learning, and full-stack development by combining a Python-based emotion detection engine with a Java-based music playback system. The system captures live video from a webcam, analyzes facial expressions using AI, and dynamically triggers music playback corresponding to emotions such as happy, sad, angry, or neutral.
 
 
-**🎥 DEMO VIDEO** :
-         https://drive.google.com/file/d/1GEyNsiH9lOAcjuRY1jB_qhvP0A0aHP9w/view?usp=drive_link
